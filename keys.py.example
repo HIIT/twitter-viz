@@ -1,0 +1,6 @@
+keys = [
+    "consumer token",
+    "consumer secret",
+    "application token",
+    "application secret"
+]

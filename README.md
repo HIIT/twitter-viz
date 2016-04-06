@@ -1,0 +1,4 @@
+- cp keys.py.example keys.py
+- put your tokens there
+- python twitter.py
+- open index.html and enjoy stalking
